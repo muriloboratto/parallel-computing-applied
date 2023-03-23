@@ -8,7 +8,7 @@ This repository contains the material corresponding to the webinar/Hands-on: _Pa
 
 Material available in \*.ipynb (Jupyter NoteBook) format. There are 4 notebooks in this repository:
 
-## [1-Introduction.ipynb]
+## [1-introduction.ipynb]
 The introductory notebook contains some of the webinar's content, and through some basic commands, we will be able to characterize the available supercomputing environment.
 
 ## [2-heat.ipynb]
@@ -17,7 +17,7 @@ This NoteBook shows a case study of an application that will measure the thermal
 ## [3-wave.ipynb]
 This NoteBook shows a case study of an application that processes seismic modeling through a 1D wave.
 
-## [4-FinalExercise.ipynb]
+## [4-finalExercise.ipynb]
 We end with a suggestion for applying the concepts learned in a case study called: _Simulation N-Body_.
 
 ---
